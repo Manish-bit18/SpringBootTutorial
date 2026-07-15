@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringCore" />
-        <module name="Hello_Spring" />
         <module name="SpringCoreDemo" />
+        <module name="Hello_Spring" />
+        <module name="CircularDependency" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
