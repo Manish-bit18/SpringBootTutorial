@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/DependencyInjection/pom.xml" />
         <option value="$PROJECT_DIR$/SpringCoreDemo/pom.xml" />
         <option value="$PROJECT_DIR$/CircularDependency/pom.xml" />
+        <option value="$PROJECT_DIR$/BeanScopeDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/BeanIntialization/pom.xml" />
       </list>
     </option>
   </component>

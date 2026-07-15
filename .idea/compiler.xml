@@ -9,7 +9,9 @@
         <module name="SpringCore" />
         <module name="SpringCoreDemo" />
         <module name="Hello_Spring" />
+        <module name="BeanScopeDemo" />
         <module name="CircularDependency" />
+        <module name="BeanIntialization" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
