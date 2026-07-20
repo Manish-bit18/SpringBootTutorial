@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Hello_Spring" />
+        <module name="XMLBasedConfiguration" />
         <module name="SpringCore" />
         <module name="SpringCoreDemo" />
-        <module name="Hello_Spring" />
+        <module name="BeansLifecycle" />
         <module name="BeanScopeDemo" />
         <module name="CircularDependency" />
         <module name="BeanIntialization" />

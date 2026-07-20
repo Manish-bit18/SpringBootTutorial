@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/CircularDependency/pom.xml" />
         <option value="$PROJECT_DIR$/BeanScopeDemo/pom.xml" />
         <option value="$PROJECT_DIR$/BeanIntialization/pom.xml" />
+        <option value="$PROJECT_DIR$/BeansLifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/XMLBasedConfiguration/pom.xml" />
       </list>
     </option>
   </component>

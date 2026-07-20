@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/BeanIntialization/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/BeanScopeDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/BeanScopeDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BeansLifecycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BeansLifecycle/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CircularDependency/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CircularDependency/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Dependency_Injection/src/main/java" charset="UTF-8" />
@@ -14,5 +16,7 @@
     <file url="file://$PROJECT_DIR$/SpringCore/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCoreDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCoreDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XMLBasedConfiguration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XMLBasedConfiguration/src/main/resources" charset="UTF-8" />
   </component>
 </project>
